@@ -1,1 +1,2 @@
 第一次创建hello.text
+第一次创建name=lss;
