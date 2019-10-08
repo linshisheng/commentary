@@ -67,7 +67,7 @@
 		                </div>
 		            </div>
 		            <ul class="nav" id="mainMenuUl">
-		            	<li onclick="" class="on"><a><span>页面原型</span></a></li>
+		            	<li onclick="" class="on"><a><span>内容管理</span></a></li>
 		            </ul>
 		        </div>
 		    </div>
